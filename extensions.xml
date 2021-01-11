@@ -747,50 +747,6 @@
       <desc lang="EN">RadioNet - provides access to Radio.net directory</desc>
       <title lang="EN">RadioNet V1.*</title>
     </plugin>
-    <plugin name="Groups" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Groups" maxTarget="*" minTarget="7.5" sha="228d3be984554cb731727ebd76a22596fb230f36" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Groups-0.13.1.zip" version="0.13.1">
-      <desc lang="EN">on-the-fly group creation</desc>
-      <title lang="EN">Group Players</title>
-    </plugin>
-    <plugin name="SwitchGroupPlayer" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/SwitchGroupPlayer" maxTarget="*" minTarget="7.5" sha="a80c3acfbab212ad68b96251658214bf2c9d5e59" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/SwitchGroupPlayer-0.4.zip" version="0.4">
-      <desc lang="EN">Switch Playlist between players (Triode plugin compatible with Group Player plugin)</desc>
-      <title lang="EN">Switch Player (Groups compatible)</title>
-    </plugin>
-    <plugin name="CPlus" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-CPlus" maxTarget="*" minTarget="8.0" sha="29690be6300ec6ff777548ef8387dae6a374f01c" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CPlus-0.20.6.zip" version="0.20.6">
-      <desc lang="EN">Play Canal+ video</desc>
-      <title lang="EN">CPlus</title>
-    </plugin>
-    <plugin name="FranceTV" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-Pluzz" maxTarget="*" minTarget="7.5" sha="6fae98339c2a7d1dc12d7ed8d0a48670604354cc" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/FranceTV-0.61.0.zip" version="0.61.0">
-      <desc lang="EN">Play FranceTelevisions video</desc>
-      <title lang="EN">FranceTV</title>
-    </plugin>
-    <plugin name="LCI" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-LCI" maxTarget="*" minTarget="7.5" sha="8e233ac16e83772599b0107fb9fe75c1b70fb890" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/LCI-0.9.0.zip" version="0.9.0">
-      <desc lang="EN">Play LCI/TF1 video</desc>
-      <title lang="EN">LCI</title>
-    </plugin>
-    <plugin name="UPnPBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-upnp" maxTarget="*" minTarget="7.5" sha="39f1c23cdfb4bde2c591ff5cd6730085ade1aaf7" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/UPnPBridge-1.45.1.zip" version="1.45.1">
-      <desc lang="EN">Use UPnP/DLNA players in LMS</desc>
-      <title lang="EN">UPnP/DLNA bridge</title>
-    </plugin>
-    <plugin name="YouTube" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-youtube" maxTarget="*" minTarget="7.5" sha="fb3b15955c0b5e46e520f1b0c10e73c2eb335601" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/YouTube-0.127.0.zip" version="0.127.0">
-      <desc lang="EN">Play YouTube video</desc>
-      <title lang="EN">YouTube</title>
-    </plugin>
-    <plugin name="RaopBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-raop" maxTarget="*" minTarget="7.5" sha="2bdcd73ff2aeff3c09aa1667aae24547bf2aa686" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/RaopBridge-0.4.50.6.zip" version="0.4.50.6">
-      <desc lang="EN">Use AirPlay devices in LMS</desc>
-      <title lang="EN">AirPlay bridge</title>
-    </plugin>
-    <plugin name="CastBridge" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/LMS-to-cast" maxTarget="*" minTarget="7.5" sha="c1fd363e91f16cd8f48f379f569d9226f8fd2c8a" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/CastBridge-1.46.1.zip" version="1.46.1">
-      <desc lang="EN">Use Chromecast devices in LMS</desc>
-      <title lang="EN">Chromecast bridge</title>
-    </plugin>
-    <plugin name="ShairTunes2W" creator="Philippe" email="philippe_44@outlook.com" link="http://github.com/philippe44/ShairTunes2" maxTarget="*" minTarget="7.5" sha="5da7dff5f5d1e6d99d2724a8ed3fc63f1358963f" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/ShairTunes2W-0.203.0.zip" version="0.203.0">
-      <desc lang="EN">Airtunes for LMS (with Windows)</desc>
-      <title lang="EN">ShairTunes2 (fork)</title>
-    </plugin>
-    <plugin name="Reliable" creator="Philippe" email="philippe_44@outlook.com" link="https://github.com/philippe44/LMS-reliable" maxTarget="*" minTarget="7.7" sha="e584c1a20929c714acc9ff6cf0d4a7d81be1a066" url="http://downloads.sourceforge.net/project/lms-plugins-philippe44/Reliable-0.18.1.zip" version="0.18.1">
-      <desc lang="EN">Reliable HTTP connection for LMS</desc>
-      <title lang="EN">Reliable HTTP</title>
-    </plugin>
     <plugin name="SuperDateTime" creator="G Brown, D Grossman" link="https://sourceforge.net/projects/sdt-weather-com/" maxTarget="8.*" minTarget="7.4" sha="519294b1b09648f4b4016b79fd3cbbc3bd0177fe" url="https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-9.zip" version="5.11.9">
       <desc lang="EN">Displays local time, date, weather, sports, and stock information.  
 			(5.11.9) - Added selection for air-pressure units to be displayed in Extras menu.  Improved language localization.</desc>
